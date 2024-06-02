@@ -41,7 +41,7 @@ def remove_background(input_image_path, output_image_path):
     plt.show()
 
 # Example usage:
-input_image_path = 'BackgroundRemovalProgram\283210.jpg'
+input_image_path = '283210.jpg'
 output_image_path = 'new.py'
 
 remove_background(input_image_path, output_image_path)

@@ -17,7 +17,7 @@ def pdf_to_docx(pdf_path, docx_path):
     print(f"PDF has been converted to DOCX and saved as {docx_path}")
 
 # Example usage:
-pdf_path = 'path/to/your/input.pdf'
-docx_path = 'path/to/save/output.docx'
+pdf_path = 'MPU33213_Topic_8_Failures_and_Erros_in_Computer_Systems.pdf'
+docx_path = 'new.docx'
 
 pdf_to_docx(pdf_path, docx_path)
